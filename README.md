@@ -10,3 +10,5 @@ Plotting_Expression.ipynb contains code to plot data from a variety of publicati
 DEA_No_Function.R was used for testing for differential expression with DESeq2 and to compute TPM.
 Compute_TPM.R also computes TPM.
 Finally, the various Snakefiles were used to map data and count reads.  No dedup doesn't deduplicate reads, TrimGalore uses trimgalore to trim, and Hybrid is for hybrid data.  
+
+There is no restriction on the use of this code whatsoever.
